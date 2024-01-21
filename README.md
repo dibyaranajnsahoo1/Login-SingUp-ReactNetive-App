@@ -1,16 +1,10 @@
 # Login-SignUp-UI-React-Native
 
 ![Image](https://github.com/dibyaranajnsahoo1/Login-SingUp-ReactNetive-App/blob/main/WhatsApp%20Image%202024-01-21%20at%2017.39.04_c319ee5d.jpg?raw=true)
-![Image](https://github.com/dibyaranajnsahoo1/Login-SingUp-ReactNetive-App/blob/main/WhatsApp%20Image%202024-01-21%20at%2017.39.04_c319ee5d.jpg?raw=true)
-![Image](https://github.com/dibyaranajnsahoo1/Login-SingUp-ReactNetive-App/blob/main/WhatsApp%20Image%202024-01-21%20at%2017.39.04_c319ee5d.jpg?raw=true)
+![Image](https://github.com/dibyaranajnsahoo1/Login-SingUp-ReactNetive-App/blob/main/WhatsApp%20Image%202024-01-21%20at%2017.39.03_79bb90ea.jpg?raw=true)
+![Image](https://github.com/dibyaranajnsahoo1/Login-SingUp-ReactNetive-App/blob/main/WhatsApp%20Image%202024-01-21%20at%2017.39.03_79bb90ea.jpg?raw=true)
 
-<p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/RhF4iUCiwSs" target="_blank">Login & SignUp in React Native</a>
-    </p>
-    
-  </p>
+
   
 
 ## Get Started
@@ -41,9 +35,5 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 💙 If you like this project, give it a ⭐ and share it with friends!
 
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitter.com/code_with_nomi"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
 
-<a href="https://www.buymeacoffee.com/syednoman">☕ Buy me a coffee</a>
+
